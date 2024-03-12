@@ -1,2 +1,2 @@
 # garotinhas de anime
-<img src="img/marii.png">
+<img src="img/dev.png">
